@@ -1,6 +1,7 @@
 - @U-156
 - Ürün ile ilgili bilgiler: 
-- Takım elemanları: Denisa Jangozi--> Scrum Master / Developer
+- Takım elemanları: 
+-                   Denisa Jangozi--> Scrum Master / Developer
 -                   Bahar Faghfouri--> Developer
 -                   Batuhan Tayfun Erdem--> Developer
 -                   Gülbin Coşkun--> Developer
