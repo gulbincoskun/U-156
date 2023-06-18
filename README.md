@@ -6,21 +6,18 @@
 -                   Batuhan Tayfun Erdem: Developer
 -                   Gülbin Coşkun: Developer
 -                   Yasemin Tumuklu: Developer
-- Ürün İsmi: --?--
-- Product Backlog URL: --?--
+- Ürün İsmi: "İhanetin Gölgesi"
+- Product Backlog URL: -----
 - Ürün Açıkaması: 
--"*************"
+- 
+-"İhanetin Gölgesi"
 
-"**********", heyecan dolu bir 2D sonsuz koşu oyunudur. Oyuncular, ateşin gücünü kullanan bir karakterle suyu kontrol edebilen diğer bir karakteri ve daha bir çok özel güce sahip karakterleri yönlendirerek engelleri aşmaya çalışırlar. Her karakterin zıplama, eğilme ve güçlerini kullanma gibi özelliklere sahip.
+Huzurlu ve uzak bir köyde, yaklaşan bir tehlike köyün varlığını tehdit etmektedir ve umut, gizemli bir robot olan Zeta'nın elindedir. Ancak, Zeta'nın gerçek niyetleri hala gizemini korumaktadır, bu yüzden köye yardım etmek için adım atan bir kahraman ortaya çıkar. Kahraman, olağanüstü güçlere ve etkileyici dövüş yeteneklerine sahip olarak, Zeta'nın rehberliğinde köyü kurtarmak için bir yolculuğa çıkar.
 
-Bu heyecan dolu maceraya başladığınızda, yol boyunca çeşitli zorluklarla karşılaşacaksınız. Oyunda, yüksek duvarlar, tehlikeli platformlar ve tehlikeli boşluklar gibi çeşitli engeller bulunmaktadır. Ancak özel güçlerini kullanarak karakterler, bu engelleri aşabilir ve oyunun ilerisine geçebilirler.
+Hikaye ilerledikçe, kahraman Zeta'nın niyetleri konusunda kuşkular ve şüpheler taşımaya başlar. Yavaş yavaş gerçek ortaya çıkar - görünüşte iyi niyetli olan robot, köyü tehdit eden muazzam gücü elde etmek amacıyla kötü bir ajandayı saklamaktadır. Zeta'nın asıl amacının, kahramanı kişisel kazanımları için kullandığı anlaşılır.
 
-Her karakter, tehlikeli alanları geçmek için önemli yeteneklere sahiptir. Engelleri aşmak için zıplayabilir, dar alanlardan geçmek için eğilebilir ve en önemlisi benzersiz güçlerini kullanarak zorlukların üstesinden gelebilirler.
-
-Oyun ilerledikçe, anın yoğunluğu artar ve oyuncuların refleksleri, çeviklikleri ve stratejik düşünceleri test edilir. Seviyeler boyunca dağıtılan güçlendiricileri topladıkça, karakterler yeteneklerini geliştirebilir ve giderek büyüyen engellere karşı daha da etkileyici hale gelebilirler.
-
-"**********", görsel açıdan etkileyici ve sürükleyici bir oynanış deneyimi sunar. Canlı 2D grafikler, oyun dünyasını canlandırırken özenle tasarlanmış seviyeler ve etkileyici ortamlar sunar. Dinamik bir soundtrack, adrenalini yükselten oynanışı daha da pekiştirir ve oyuncuları heyecan verici maceraya dahil eder.
+Sonuçta, kahraman ve Zeta arasında bir savaş başlar ve dövüş sahneleriyle doruğa ulaşır. Kahraman, Zeta'nın ihanetine karşı mücadele ederken köyün kaderini belirlemek için amansız bir savaşa girişir.
 
 - Ürün Özellikleri: --?--
 - Hedef Kitle: --?--
-- Juriye Not: --?--
+- Juriye Not: -----
