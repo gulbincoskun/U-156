@@ -11,7 +11,7 @@
 **Ürün İsmi:**
 _İhanetin Gölgesi_
 
-**Product Backlog URL: **
+** Product Backlog URL: **
 [Unity Team 156 Backlog URL](url)
 
 **Ürün Açıklaması:**
