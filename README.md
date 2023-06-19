@@ -6,6 +6,7 @@
 - Bahar Faghfouri: Developer
 - Batuhan Tayfun Erdem: Developer
 - Yasemin Tumuklu: Developer
+- Gülbin Coşkun: Developer
 
 **Ürün İsmi:**
 _İhanetin Gölgesi_
