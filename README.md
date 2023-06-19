@@ -5,6 +5,7 @@
 - Denisa Jnagozi : Scrum Master / Developer
 - Bahar Faghfouri: Developer
 - Batuhan Tayfun Erdem: Developer
+- Gülbin Coşkun: Developer
 - Yasemin Tumuklu: Developer
 
 **Ürün İsmi:**
