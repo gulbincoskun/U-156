@@ -28,7 +28,7 @@ Huzurlu ve uzak bir köyde, yaklaşan bir tehlike köyün varlığını tehdit e
 
 **Hedef Kitle:** 
 
-**Juriye Not:** 
+**Juriye Not:***
 
 **Sprint1**
 [Sprint 1 Daily Scrum Chats](https://drive.google.com/drive/folders/1tWZQM37IaUgwzOINF8YYpD6xFH2FCLlz?usp=sharing)
